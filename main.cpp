@@ -22,33 +22,33 @@ Pick two cities of your choice. Fill in the temperature for the 7 days of this w
 
 //City X, Day X: Temp
 
-City 1, Day 1: TEMP
+City 1, Day 1: 51
 
-City 1, Day 2: TEMP
+City 1, Day 2: 61
 
-City 1, Day 3: TEMP
+City 1, Day 3: 55
 
-City 1, Day 4: TEMP
+City 1, Day 4: 51
 
-City 1, Day 5: TEMP
+City 1, Day 5: 60
 
-City 1, Day 6: TEMP
+City 1, Day 6: 68
 
-City 1, Day 7: TEMP
+City 1, Day 7: 70
 
-City 2, Day 1: TEMP
+City 2, Day 1: 70
 
-City 2, Day 2: TEMP
+City 2, Day 2: 72
 
-City 2, Day 3: TEMP
+City 2, Day 3: 86
 
-City 2, Day 4: TEMP
+City 2, Day 4: 86
 
-City 2, Day 5: TEMP
+City 2, Day 5: 85
 
-City 2, Day 6: TEMP
+City 2, Day 6: 90
 
-City 2, Day 7: TEMP
+City 2, Day 7: 88
 
 */
 
