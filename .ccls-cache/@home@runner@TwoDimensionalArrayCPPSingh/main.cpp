@@ -1,8 +1,8 @@
 //Student Name: Jobanpreet Singh
-
-//Teacher: Dr. Tyson McMillan
-
+//Teacher: Dr. Tyson McMillan 
+// Tarrant County College
 //Date: 4/6/2022 
+// Purpose of Assignment : To create an ar
 
 //A program to practice working with multi-dimensional arrays
 
